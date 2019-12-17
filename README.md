@@ -1,2 +1,2 @@
-# MRNET-GAN
-GAN project using MRNET dataset
+# mrnet_gan_project
+AI Course Project 
